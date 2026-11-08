@@ -2,53 +2,75 @@
   <img src="assets/banner.gif" alt="cozyaar. student, builder, sheathed but not idle." width="100%">
 </p>
 
-I turn messy data into things people can read: insurance fine print, campus records, market charts. Mostly Next.js, TypeScript and PostgreSQL, and I spend more time than is reasonable on the parts nobody sees: validation, read-only roles, sensible defaults.
+<img src="assets/h-about.gif" alt="Behind the mask" width="100%">
+
+<img align="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="" width="250">
+
+I turn messy data into things people can read: insurance fine print, campus records, market charts. Mostly Next.js, TypeScript, Python and PostgreSQL, and I spend more time than is reasonable on the parts nobody sees: validation, read-only roles, sensible defaults.
 
 I'd rather ship something small and sharp than something big and vague.
 
-<br>
+![focus](https://img.shields.io/badge/focus-data%20products-6ebeff?style=flat-square)
+![also](https://img.shields.io/badge/also-full--stack%20web-f5bb4c?style=flat-square)
+![status](https://img.shields.io/badge/status-sheathed%2C%20not%20idle-f05258?style=flat-square)
 
-## Work
+<br clear="right">
 
-`released` means there's a live demo. `sealed` means source only.
+<img src="assets/h-work.gif" alt="Released" width="100%">
 
-<br>
+![released](https://img.shields.io/badge/released-live%20demo-54d6a3?style=flat-square)
+![sealed](https://img.shields.io/badge/sealed-source%20only-3e4550?style=flat-square)
 
-<a href="https://github.com/cozyaar/datawise"><img src="assets/datawise.gif" alt="DataWise" width="100%"></a>
+<p align="center">
+  <a href="https://github.com/cozyaar/datawise"><img src="assets/datawise.gif" alt="DataWise" width="49%"></a>
+  <a href="https://studystock.vercel.app"><img src="assets/studystock.gif" alt="Study Stock" width="49%"></a>
+  <a href="https://policybase.vercel.app/"><img src="assets/policylens.gif" alt="PolicyLens" width="49%"></a>
+  <a href="https://institutional-quality-dashboard.streamlit.app/"><img src="assets/iqdashboard.gif" alt="Institutional Quality Dashboard" width="49%"></a>
+</p>
 
-Ask a campus database questions in plain English. Gemini drafts the SQL, a read-only role runs it, and charts come back. A what-if lab models things like attendance changes without touching a single record. &nbsp;·&nbsp; [source](https://github.com/cozyaar/datawise)
+**DataWise** &nbsp;·&nbsp; Ask a campus database questions in plain English. Gemini drafts the SQL, a read-only role runs it, and charts come back. A what-if lab models changes without touching a single record. &nbsp;[source](https://github.com/cozyaar/datawise)
 
-<br>
+<!-- TODO: rewrite the Study Stock line in your own words. The site's public text is empty, so I only know it's a stock market study site. -->
+**Study Stock** &nbsp;·&nbsp; A website for studying the stock market, built to be learned from rather than refreshed. &nbsp;[live](https://studystock.vercel.app) &nbsp;[source](https://github.com/cozyaar/stock-study)
 
-<a href="https://studystock.vercel.app"><img src="assets/studystock.gif" alt="Study Stock" width="100%"></a>
+**PolicyLens** &nbsp;·&nbsp; An independent tool that scores Indian health insurance policies from 0 to 100 and flags the fine print: room-rent limits, co-pay clauses, sub-limits and waiting periods. It doesn't sell insurance. &nbsp;[live](https://policybase.vercel.app/) &nbsp;[source](https://github.com/cozyaar/policylens)
 
-<!-- TODO: rewrite this line in your own words. I only know the repo says "Study Stock Website". -->
-A website for studying the stock market, built to be learned from rather than refreshed. &nbsp;·&nbsp; [live](https://studystock.vercel.app) &nbsp;·&nbsp; [source](https://github.com/cozyaar/stock-study)
-
-<br>
-
-<a href="https://policylens-rouge.vercel.app"><img src="assets/policylens.gif" alt="PolicyLens" width="100%"></a>
-
-Health insurance without the sales pitch. It scores policies on a radar chart, flags the clauses insurers tuck away (room-rent caps, mandatory copays), and has a chat that suggests a fit for your situation. &nbsp;·&nbsp; [live](https://policylens-rouge.vercel.app) &nbsp;·&nbsp; [source](https://github.com/cozyaar/policylens)
-
-<br>
-
-<a href="https://github.com/cozyaar/pathfinder"><img src="assets/pathfinder.gif" alt="Path Finder" width="100%"></a>
-
-<!-- TODO: fix the repo link here and below, and rewrite this line in your own words. -->
-Pathfinding, made visible. &nbsp;·&nbsp; [source](https://github.com/cozyaar/pathfinder)
+**Institutional Quality Dashboard** &nbsp;·&nbsp; Credential verification and skill-gap diagnosis mapped to NSQF and ISO/IEC 17024. Gemini reads resumes (PDF or image), scores the fit, draws a six-axis competency radar and writes a four-week roadmap. &nbsp;[live](https://institutional-quality-dashboard.streamlit.app/) &nbsp;[source](https://github.com/cozyaar/Institutional-Quality-Dashboard)
 
 <br>
 
-## Still sealed
+<img src="assets/h-arsenal.gif" alt="Tools of the trade" width="100%">
 
-Smaller things in the drawer:
-[fig-and-flour](https://github.com/cozyaar/fig-and-flour) &middot;
-[friendwithme](https://github.com/cozyaar/friendwithme) &middot;
-[studentdashboard](https://github.com/cozyaar/studentdashboard) &middot;
-[bakery-ordering-website](https://github.com/cozyaar/bakery-ordering-website) &middot;
-[Institutional-Quality-Dashboard](https://github.com/cozyaar/Institutional-Quality-Dashboard)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,nextjs,react,tailwind,postgres,supabase,vercel,git,github,vscode&perline=12" alt="TypeScript, JavaScript, Python, Next.js, React, Tailwind, PostgreSQL, Supabase, Vercel, Git, GitHub, VS Code">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
+  <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini API">
+  <img src="https://img.shields.io/badge/Drizzle%20ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black" alt="Drizzle ORM">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
+</p>
 
 <br>
+
+<img src="assets/h-activity.gif" alt="Every cut, counted" width="100%">
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cozyaar/cozyaar/output/snake.svg" alt="contribution graph" width="100%">
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/cozyaar/fig-and-flour">fig-and-flour</a> &middot;
+  <a href="https://github.com/cozyaar/friendwithme">friendwithme</a> &middot;
+  <a href="https://github.com/cozyaar/studentdashboard">studentdashboard</a> &middot;
+  <a href="https://github.com/cozyaar/bakery-ordering-website">bakery-ordering-website</a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" alt="" width="180">
+</p>
 
 <p align="center"><sub><i>Every blade has a name. I'm still writing mine.</i></sub></p>

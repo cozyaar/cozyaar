@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="assets/banner.gif" alt="cozyaar. student, builder, sheathed but not idle." width="100%">
+  <img src="assets/banner.gif" alt="Kausthubh Prasad Nair (cozyaar). Student, builder, sheathed but not idle." width="100%">
 </p>
 
 <img src="assets/h-about.gif" alt="Behind the mask" width="100%">
 
 <img align="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="" width="250">
 
-I turn messy data into things people can read: insurance fine print, campus records, market charts. Mostly Next.js, TypeScript, Python and PostgreSQL, and I spend more time than is reasonable on the parts nobody sees: validation, read-only roles, sensible defaults.
+I'm **Kausthubh Prasad Nair**, also known as cozyaar. I turn messy data into things people can read: insurance fine print, campus records, market charts. Mostly Next.js, TypeScript, Python and PostgreSQL, and I spend more time than is reasonable on the parts nobody sees: validation, read-only roles, sensible defaults.
 
 I'd rather ship something small and sharp than something big and vague.
 
@@ -18,7 +18,9 @@ I'd rather ship something small and sharp than something big and vague.
 
 <img src="assets/h-work.gif" alt="Released" width="100%">
 
-![released](https://img.shields.io/badge/released-live%20demo-54d6a3?style=flat-square)
+Three of these four are **live right now**. Click a plate, or the green button under it, to open the real site.
+
+![released](https://img.shields.io/badge/released-live%20and%20open%20to%20visit-54d6a3?style=flat-square)
 ![sealed](https://img.shields.io/badge/sealed-source%20only-3e4550?style=flat-square)
 
 <p align="center">
@@ -28,14 +30,18 @@ I'd rather ship something small and sharp than something big and vague.
   <a href="https://institutional-quality-dashboard.streamlit.app/"><img src="assets/iqdashboard.gif" alt="Institutional Quality Dashboard" width="49%"></a>
 </p>
 
-**DataWise** &nbsp;·&nbsp; Ask a campus database questions in plain English. Gemini drafts the SQL, a read-only role runs it, and charts come back. A what-if lab models changes without touching a single record. &nbsp;[source](https://github.com/cozyaar/datawise)
+**DataWise** &nbsp;·&nbsp; Ask a campus database questions in plain English. Gemini drafts the SQL, a read-only role runs it, and charts come back. A what-if lab models changes without touching a single record.<br>
+[![source](https://img.shields.io/badge/source-GitHub-3e4550?style=for-the-badge&logo=github)](https://github.com/cozyaar/datawise)
 
 <!-- TODO: rewrite the Study Stock line in your own words. The site's public text is empty, so I only know it's a stock market study site. -->
-**Study Stock** &nbsp;·&nbsp; A website for studying the stock market, built to be learned from rather than refreshed. &nbsp;[live](https://studystock.vercel.app) &nbsp;[source](https://github.com/cozyaar/stock-study)
+**Study Stock** &nbsp;·&nbsp; A website for studying the stock market, built to be learned from rather than refreshed.<br>
+[![Visit live](https://img.shields.io/badge/%E2%96%B6%20LIVE-visit%20Study%20Stock-54d6a3?style=for-the-badge)](https://studystock.vercel.app) [![source](https://img.shields.io/badge/source-GitHub-3e4550?style=for-the-badge&logo=github)](https://github.com/cozyaar/stock-study)
 
-**PolicyLens** &nbsp;·&nbsp; An independent tool that scores Indian health insurance policies from 0 to 100 and flags the fine print: room-rent limits, co-pay clauses, sub-limits and waiting periods. It doesn't sell insurance. &nbsp;[live](https://policybase.vercel.app/) &nbsp;[source](https://github.com/cozyaar/policylens)
+**PolicyLens** &nbsp;·&nbsp; An independent tool that scores Indian health insurance policies from 0 to 100 and flags the fine print: room-rent limits, co-pay clauses, sub-limits and waiting periods. It doesn't sell insurance.<br>
+[![Visit live](https://img.shields.io/badge/%E2%96%B6%20LIVE-visit%20PolicyLens-54d6a3?style=for-the-badge)](https://policybase.vercel.app/) [![source](https://img.shields.io/badge/source-GitHub-3e4550?style=for-the-badge&logo=github)](https://github.com/cozyaar/policylens)
 
-**Institutional Quality Dashboard** &nbsp;·&nbsp; Credential verification and skill-gap diagnosis mapped to NSQF and ISO/IEC 17024. Gemini reads resumes (PDF or image), scores the fit, draws a six-axis competency radar and writes a four-week roadmap. &nbsp;[live](https://institutional-quality-dashboard.streamlit.app/) &nbsp;[source](https://github.com/cozyaar/Institutional-Quality-Dashboard)
+**Institutional Quality Dashboard** &nbsp;·&nbsp; Credential verification and skill-gap diagnosis mapped to NSQF and ISO/IEC 17024. Gemini reads resumes (PDF or image), scores the fit, draws a six-axis competency radar and writes a four-week roadmap.<br>
+[![Visit live](https://img.shields.io/badge/%E2%96%B6%20LIVE-visit%20the%20dashboard-54d6a3?style=for-the-badge)](https://institutional-quality-dashboard.streamlit.app/) [![source](https://img.shields.io/badge/source-GitHub-3e4550?style=for-the-badge&logo=github)](https://github.com/cozyaar/Institutional-Quality-Dashboard)
 
 <br>
 
@@ -51,6 +57,22 @@ I'd rather ship something small and sharp than something big and vague.
   <img src="https://img.shields.io/badge/Drizzle%20ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black" alt="Drizzle ORM">
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
 </p>
+
+<br>
+
+<img src="assets/h-badges.gif" alt="Trophies" width="100%">
+
+<p align="center">
+  <img src="assets/badges/pull-shark.png" alt="Pull Shark" title="Pull Shark" width="110">
+  &nbsp;
+  <img src="assets/badges/yolo.png" alt="YOLO" title="YOLO" width="110">
+  &nbsp;
+  <img src="assets/badges/quickdraw.png" alt="Quickdraw" title="Quickdraw" width="110">
+  &nbsp;
+  <img src="assets/badges/pair-extraordinaire.png" alt="Pair Extraordinaire" title="Pair Extraordinaire" width="110">
+</p>
+
+<p align="center"><sub>Pull Shark &nbsp;·&nbsp; YOLO &nbsp;·&nbsp; Quickdraw &nbsp;·&nbsp; Pair Extraordinaire</sub></p>
 
 <br>
 

@@ -57,7 +57,7 @@ I'd rather ship something small and sharp than something big and vague.
 <img src="assets/h-activity.gif" alt="Every cut, counted" width="100%">
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cozyaar/cozyaar/output/snake.svg" alt="contribution graph" width="100%">
+  <img src="https://raw.githubusercontent.com/cozyaar/cozyaar/output/snake.svg?v=2" alt="contribution graph" width="100%">
 </p>
 
 <br>

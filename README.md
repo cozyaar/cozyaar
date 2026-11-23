@@ -23,7 +23,7 @@ I'd rather ship something small and sharp than something big and vague.
 
 <p align="center">
   <a href="https://github.com/cozyaar/datawise"><img src="assets/datawise.gif" alt="DataWise" width="49%"></a>
-  <a href="https://studystock.vercel.app"><img src="assets/studystock.gif" alt="Study Stock" width="49%"></a>
+  <a href="http://study-cloud-67837.indiasouthcentral.cloudapp.azure.com/"><img src="assets/studystock.gif" alt="Study Stock" width="49%"></a>
   <a href="https://policybase.vercel.app/"><img src="assets/policylens.gif" alt="PolicyLens" width="49%"></a>
   <a href="https://institutional-quality-dashboard.streamlit.app/"><img src="assets/iqdashboard.gif" alt="Institutional Quality Dashboard" width="49%"></a>
 </p>
@@ -31,7 +31,7 @@ I'd rather ship something small and sharp than something big and vague.
 **DataWise** &nbsp;·&nbsp; Ask a campus database questions in plain English. Gemini drafts the SQL, a read-only role runs it, and charts come back. A what-if lab models changes without touching a single record. &nbsp;[source](https://github.com/cozyaar/datawise)
 
 <!-- TODO: rewrite the Study Stock line in your own words. The site's public text is empty, so I only know it's a stock market study site. -->
-**Study Stock** &nbsp;·&nbsp; A website for studying the stock market, built to be learned from rather than refreshed. &nbsp;[live](https://studystock.vercel.app) &nbsp;[source](https://github.com/cozyaar/stock-study)
+**Study Stock** &nbsp;·&nbsp; A website for studying the stock market, built to be learned from rather than refreshed. &nbsp;[live][(https://studystock.vercel.app](http://study-cloud-67837.indiasouthcentral.cloudapp.azure.com) &nbsp;[source](https://github.com/cozyaar/stock-study)
 
 **PolicyLens** &nbsp;·&nbsp; An independent tool that scores Indian health insurance policies from 0 to 100 and flags the fine print: room-rent limits, co-pay clauses, sub-limits and waiting periods. It doesn't sell insurance. &nbsp;[live](https://policybase.vercel.app/) &nbsp;[source](https://github.com/cozyaar/policylens)
 
